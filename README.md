@@ -27,6 +27,7 @@ Hi there, I'm Mateusz Surjak 👋
 ![Bash](https://img.shields.io/badge/Bash-3776AB?style=flat-square&logo=GNU-Bash&color=black)
 
 ![Spring Framework](http://img.shields.io/badge/-Spring-007396?style=flat-square&logo=spring&logoColor=ffffff&color=green)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Angular](https://img.shields.io/badge/Angular-3776AB?style=flat-square&logo=angular&color=yellow)
 ![React](https://img.shields.io/badge/React-3776AB?style=flat-square&logo=react&color=blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-3776AB?style=flat-square&logo=Jupyter&color=black)
