@@ -12,8 +12,8 @@ Hi there, I'm Mateusz Surjak 👋
 </p>
 
 - :computer: I’m currently working as Software Developer at Pegasystems
-- 🎓 **3rd year of Computer Science**
-- ⭐ Head of **BIT-Java** in <a href="https://knbit.edu.pl/">KNBIT</a>
+- 🎓 **Graduate of Computer Science**
+- ⭐ Prior head of **BIT-Java** in <a href="https://knbit.edu.pl/">KNBIT</a>
 
 🔧 Languages & Tools
 ---
